@@ -18,10 +18,16 @@
 
 ### Mounting
 
+![](img/mounting.svg)
+
 ---
 
 ### Updating
 
+![](img/updating.svg)
+
 ---
 
 ### Unmounting
+
+![](img/unmounting.svg)

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="881px" height="108px" viewBox="0 0 881 108" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.1 (29687) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-1" transform="translate(-61.000000, -1076.000000)">
+            <g id="Group-3" transform="translate(61.000000, 1076.000000)">
+                <g id="Group-Copy-6" transform="translate(0.000000, 45.000000)">
+                    <rect id="Rectangle-1" fill="#CDFFCF" x="0" y="0" width="438.604827" height="61.4252154" rx="10"></rect>
+                    <text id="componentWillUnmount" font-family="HelveticaNeue-MediumItalic, Helvetica Neue" font-size="20.1031576" font-style="italic" font-weight="500" letter-spacing="0.5" fill="#000000">
+                        <tspan x="96.5285815" y="34.7420517">componentWillUnmount(</tspan>
+                        <tspan x="337.873141" y="34.7420517">)</tspan>
+                    </text>
+                </g>
+                <rect id="Rectangle-5-Copy" fill="#EAC6C6" x="129" y="0" width="190" height="27"></rect>
+                <text id="Unmounting" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" fill="#000000">
+                    <tspan x="166.49" y="21">Unmounting</tspan>
+                </text>
+                <rect id="Rectangle-6-Copy-4" fill="#52539F" x="462" y="44" width="419" height="64"></rect>
+                <text id="--Clean-up-timers,-c" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="13" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="466" y="83">- Clean up timers, cancel network requests, remove event </tspan>
+                    <tspan x="466" y="99">listeners, etc in here</tspan>
+                </text>
+                <text id="--Called-right-befor" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="13" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="466" y="63">- Called right before the component is destroyed</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

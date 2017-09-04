@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="648px" height="333px" viewBox="0 0 648 333" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.1 (29687) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-1" transform="translate(-102.000000, -64.000000)">
+            <g id="Group" transform="translate(102.000000, 64.000000)">
+                <g id="Group-Copy" transform="translate(0.000000, 43.000000)">
+                    <rect id="Rectangle-1" fill="#CDFFCF" x="0" y="0" width="251" height="50" rx="10"></rect>
+                    <text id="constructor()" font-family="HelveticaNeue-MediumItalic, Helvetica Neue" font-size="20" font-style="italic" font-weight="500" letter-spacing="0.5" fill="#000000">
+                        <tspan x="63.56" y="32">constructor(</tspan>
+                        <tspan x="182.52" y="32">)</tspan>
+                    </text>
+                </g>
+                <g id="Group-Copy-2" transform="translate(0.000000, 120.000000)">
+                    <rect id="Rectangle-1" fill="#CDFFCF" x="0" y="0" width="251" height="50" rx="10"></rect>
+                    <text id="componentWillMount()" font-family="HelveticaNeue-MediumItalic, Helvetica Neue" font-size="20" font-style="italic" font-weight="500" letter-spacing="0.5" fill="#000000">
+                        <tspan x="16.61" y="32">componentWillMount(</tspan>
+                        <tspan x="229.47" y="32">)</tspan>
+                    </text>
+                </g>
+                <g id="Group-Copy-3" transform="translate(0.000000, 197.000000)">
+                    <rect id="Rectangle-1" fill="#AAE6F3" x="0" y="0" width="251" height="50" rx="10"></rect>
+                    <text id="render()" font-family="HelveticaNeue-MediumItalic, Helvetica Neue" font-size="20" font-style="italic" font-weight="500" letter-spacing="0.5" fill="#000000">
+                        <tspan x="87.96" y="32">render(</tspan>
+                        <tspan x="158.12" y="32">)</tspan>
+                    </text>
+                </g>
+                <g id="Group-Copy-4" transform="translate(0.000000, 274.000000)">
+                    <rect id="Rectangle-1" fill="#CDFFCF" x="0" y="0" width="251" height="50" rx="10"></rect>
+                    <text id="componentDidMount()" font-family="HelveticaNeue-MediumItalic, Helvetica Neue" font-size="20" font-style="italic" font-weight="500" letter-spacing="0.5" fill="#000000">
+                        <tspan x="17.42" y="32">componentDidMount(</tspan>
+                        <tspan x="228.66" y="32">)</tspan>
+                    </text>
+                </g>
+                <path d="M126,170.5 L126,196.5" id="Line" stroke="#7575E3" stroke-width="2" stroke-linecap="square"></path>
+                <path id="Line-decoration-1" d="M126,196.5 L129,185.7 L123,185.7 L126,196.5 Z" stroke="#7575E3" stroke-width="2" stroke-linecap="square"></path>
+                <path d="M127,247.5 L127,273.5" id="Line-Copy-2" stroke="#7575E3" stroke-width="2" stroke-linecap="square"></path>
+                <path id="Line-Copy-2-decoration-1" d="M127,273.5 L130,262.7 L124,262.7 L127,273.5 Z" stroke="#7575E3" stroke-width="2" stroke-linecap="square"></path>
+                <path d="M126,93.5 L126,119.5" id="Line-Copy" stroke="#7575E3" stroke-width="2" stroke-linecap="square"></path>
+                <path id="Line-Copy-decoration-1" d="M126,119.5 L129,108.7 L123,108.7 L126,119.5 Z" stroke="#7575E3" stroke-width="2" stroke-linecap="square"></path>
+                <rect id="Rectangle-5" fill="#EAC6C6" x="32" y="0" width="190" height="27"></rect>
+                <text id="Mounting" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" fill="#000000">
+                    <tspan x="82.82" y="21">Mounting</tspan>
+                </text>
+                <rect id="Rectangle-6" fill="#52539F" x="288" y="274" width="331" height="59"></rect>
+                <rect id="Rectangle-6-Copy" fill="#52539F" x="285" y="129" width="363" height="29"></rect>
+                <rect id="Rectangle-6-Copy-2" fill="#52539F" x="288" y="43" width="224" height="50"></rect>
+                <text id="--Setting-state-here" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="13" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="297" y="288">- Setting state here triggers re-render</tspan>
+                </text>
+                <text id="--Called-just-before" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="13" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="296.07" y="147">- Called just before component is rendered to the DOM</tspan>
+                </text>
+                <text id="--Standard-ES6-class" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="13" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="296.43" y="62">- Standard ES6 class constructor</tspan>
+                </text>
+                <text id="--this.state-initial" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="13" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="296.77" y="81">- this.state initialized in here</tspan>
+                </text>
+                <text id="--Fetch-data-via-API" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="13" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="297" y="307">- Fetch data via API calls here</tspan>
+                </text>
+                <text id="--Initialization-tha" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="13" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="297" y="326">- Initialization that requires DOM nodes goes here</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
