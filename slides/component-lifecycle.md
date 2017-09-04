@@ -4,6 +4,18 @@
 
 ---
 
+### What are the lifecycle methods?
+
+---
+
+### Phases
+
+- Mounting
+- Updating
+- Unmounting
+
+---
+
 ### Mounting
 
 ---
