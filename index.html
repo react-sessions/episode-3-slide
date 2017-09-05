@@ -84,6 +84,7 @@
 			});
 
 			Reveal.addEventListener('start-countdown', function () {
+                killClock();
 				var deadline = new Date(Date.parse(new Date()) + 10 * 60 * 1000);
 				initializeClock('.countdown', deadline);
 			});

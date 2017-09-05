@@ -1,4 +1,7 @@
-function getTimeRemaining (endtime) {
+
+    var timeinterval;
+
+    function getTimeRemaining (endtime) {
     var t = Date.parse(endtime) - Date.parse(new Date());
     var seconds = Math.floor((t / 1000) % 60);
     var minutes = Math.floor((t / 1000 / 60) % 60);
@@ -12,6 +15,10 @@ function getTimeRemaining (endtime) {
         'minutes': minutes,
         'seconds': seconds
     };
+}
+
+function killClock() {
+    clearInterval(timeinterval);
 }
 
 function initializeClock (selector, endtime) {
@@ -32,5 +39,5 @@ function initializeClock (selector, endtime) {
 
     updateClock();
 
-    var timeinterval = setInterval(updateClock, 1000);
+    timeinterval = setInterval(updateClock, 1000);
 }
