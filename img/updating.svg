@@ -1,102 +1,76 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="913px" height="505px" viewBox="0 0 913 505" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 3.8.1 (29687) - http://www.bohemiancoding.com/sketch -->
-    <title>Group 2</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Artboard-1" transform="translate(-61.000000, -451.000000)">
-            <g id="Group-2" transform="translate(61.000000, 451.000000)">
-                <g id="Group-Copy" transform="translate(0.000000, 46.148320)">
-                    <rect id="Rectangle-1" fill="#CDFFCF" x="0" y="0" width="438.604827" height="60.1967111" rx="10"></rect>
-                    <text id="componentWillReceive" font-family="HelveticaNeue-MediumItalic, Helvetica Neue" font-size="20.1031576" font-style="italic" font-weight="500" letter-spacing="0.5" fill="#000000">
-                        <tspan x="29.2652638" y="34.7420517">componentWillReceiveProps(nextProps)</tspan>
-                    </text>
-                </g>
-                <g id="Group-Copy-2" transform="translate(0.000000, 141.000000)">
-                    <rect id="Rectangle-1" fill="#CDFFCF" x="-2.84217094e-14" y="0" width="435.905721" height="61.4252154" rx="10"></rect>
-                    <text id="shouldComponentUpdat" font-family="HelveticaNeue-MediumItalic, Helvetica Neue" font-size="20.1031576" font-style="italic" font-weight="500" letter-spacing="0.5" fill="#000000">
-                        <tspan x="93.5987083" y="34.7420517">shouldComponentUpdate()</tspan>
-                    </text>
-                </g>
-                <g id="Group-Copy-5" transform="translate(0.000000, 235.000000)">
-                    <rect id="Rectangle-1" fill="#CDFFCF" x="-2.84217094e-14" y="0" width="435.905721" height="61.4252154" rx="10"></rect>
-                    <text id="componentWillUpdate(" font-family="HelveticaNeue-MediumItalic, Helvetica Neue" font-size="20.1031576" font-style="italic" font-weight="500" letter-spacing="0.5" fill="#000000">
-                        <tspan x="110.47273" y="34.7420517">componentWillUpdate()</tspan>
-                    </text>
-                </g>
-                <g id="Group-Copy-3" transform="translate(0.000000, 331.000000)">
-                    <rect id="Rectangle-1" fill="#AAE6F3" x="-2.84217094e-14" y="0" width="435.905721" height="61.4252154" rx="10"></rect>
-                    <text id="render()" font-family="HelveticaNeue-MediumItalic, Helvetica Neue" font-size="20.1031576" font-style="italic" font-weight="500" letter-spacing="0.5" fill="#000000">
-                        <tspan x="180.594019" y="34.7420517">render(</tspan>
-                        <tspan x="251.097843" y="34.7420517">)</tspan>
-                    </text>
-                </g>
-                <g id="Group-Copy-4" transform="translate(0.000000, 425.756152)">
-                    <rect id="Rectangle-1" fill="#CDFFCF" x="0" y="0" width="438.604827" height="61.4252154" rx="10"></rect>
-                    <text id="componentDidUpdate(p" font-family="HelveticaNeue-MediumItalic, Helvetica Neue" font-size="20.1031576" font-style="italic" font-weight="500" letter-spacing="0.5" fill="#000000">
-                        <tspan x="2.86102575" y="34.7420517">componentDidUpdate(prevProps, prevState</tspan>
-                        <tspan x="431.540696" y="34.7420517">)</tspan>
-                    </text>
-                </g>
-                <path d="M225,204.614252 L225,233.484103" id="Line" stroke="#7575E3" stroke-width="2" stroke-linecap="square"></path>
-                <path id="Line-decoration-1" d="M225,233.484103 L228,222.684103 L222,222.684103 L225,233.484103 Z" stroke="#7575E3" stroke-width="2" stroke-linecap="square"></path>
-                <path d="M226,298.614252 L226,328.712608" id="Line-Copy-2" stroke="#7575E3" stroke-width="2" stroke-linecap="square"></path>
-                <path id="Line-Copy-2-decoration-1" d="M226,328.712608 L229,317.912608 L223,317.912608 L226,328.712608 Z" stroke="#7575E3" stroke-width="2" stroke-linecap="square"></path>
-                <path d="M229,394.614252 L229,423.484103" id="Line-Copy-3" stroke="#7575E3" stroke-width="2" stroke-linecap="square"></path>
-                <path id="Line-Copy-3-decoration-1" d="M229,423.484103 L232,412.684103 L226,412.684103 L229,423.484103 Z" stroke="#7575E3" stroke-width="2" stroke-linecap="square"></path>
-                <path d="M225,109.614252 L225,138.484103" id="Line-Copy" stroke="#7575E3" stroke-width="2" stroke-linecap="square"></path>
-                <path id="Line-Copy-decoration-1" d="M225,138.484103 L228,127.684103 L222,127.684103 L225,138.484103 Z" stroke="#7575E3" stroke-width="2" stroke-linecap="square"></path>
-                <rect id="Rectangle-5" fill="#EAC6C6" x="129" y="0" width="190" height="27"></rect>
-                <text id="Updating" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" fill="#000000">
-                    <tspan x="181.49" y="21">Updating</tspan>
-                </text>
-                <rect id="Rectangle-6" fill="#52539F" x="463" y="235" width="414" height="78.3563039"></rect>
-                <rect id="Rectangle-6-Copy" fill="#52539F" x="460" y="141" width="419" height="59"></rect>
-                <rect id="Rectangle-6-Copy-3" fill="#52539F" x="458" y="426" width="455" height="78.3563039"></rect>
-                <rect id="Rectangle-6-Copy-2" fill="#52539F" x="463" y="48" width="325" height="59"></rect>
-                <text id="--Final-preparation-" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="13" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="472" y="249">- Final preparation before component updates  </tspan>
-                </text>
-                <text id="--If-this-returns-fa" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="13" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="464" y="192">- If this returns false, the methods below it are not invoked</tspan>
-                </text>
-                <text id="--Good-place-to-fetc" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="13" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="462" y="461.5">- Good place to fetch data as a result of props or state changes</tspan>
-                </text>
-                <text id="--Previous-props-and" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="13" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="462" y="480">- Previous props and state objects are passed in as parameters to </tspan>
-                    <tspan x="462" y="496">facilitate this</tspan>
-                </text>
-                <text id="--Returns-true-by-de" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="13" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="464" y="158">- Returns </tspan>
-                    <tspan x="525.399" y="158" font-family="HelveticaNeue-BoldItalic, Helvetica Neue" font-style="italic">true</tspan>
-                    <tspan x="550.671" y="158"> by default but can choose not to update component </tspan>
-                    <tspan x="464" y="174">for a particular state change by returning </tspan>
-                    <tspan x="721.595" y="174" font-family="HelveticaNeue-BoldItalic, Helvetica Neue" font-style="italic">false</tspan>
-                </text>
-                <text id="--Invoked-after-comp" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="13" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="462" y="443">- Invoked after component is rendered to the DOM</tspan>
-                </text>
-                <text id="--Called-when-props-" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="13" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="469" y="64">- Called when props are changed</tspan>
-                </text>
-                <text id="--Not-called-with-in" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="13" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="469" y="82">- Not called with initial props, only during updates</tspan>
-                </text>
-                <text id="--Can-use-‘nextProps" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="13" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="469" y="100">- Can use ‘</tspan>
-                    <tspan x="535.703" y="100" font-family="HelveticaNeue-BoldItalic, Helvetica Neue" font-style="italic">nextProps</tspan>
-                    <tspan x="598.792" y="100">’ parameter to update state</tspan>
-                </text>
-                <text id="--this.setState-can’" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="13" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="472" y="270.959763">- this.setState can’t be called here - should be done earlier in </tspan>
-                    <tspan x="472" y="286.959763">the lifecycle</tspan>
-                </text>
-                <text id="--Not-invoked-if-sho" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="13" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="472" y="308.919526">- Not invoked if shouldComponentUpdate() returns false</tspan>
-                </text>
-            </g>
-        </g>
+<svg width="913" height="505" viewBox="0 0 913 505" xmlns="http://www.w3.org/2000/svg">
+  <title>
+    Group 2
+  </title>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(0 46.148)">
+      <rect fill="#CDFFCF" width="438.605" height="60.197" rx="10"/>
+      <text font-family="HelveticaNeue-MediumItalic, Helvetica Neue" font-size="20.103" font-style="italic" font-weight="500" letter-spacing=".5" fill="#000">
+        <tspan x="29.265" y="34.742">componentWillReceiveProps(nextProps)</tspan>
+      </text>
     </g>
+    <g transform="translate(0 141)">
+      <rect fill="#CDFFCF" width="435.906" height="61.425" rx="10"/>
+      <text font-family="HelveticaNeue-MediumItalic, Helvetica Neue" font-size="20.103" font-style="italic" font-weight="500" letter-spacing=".5" fill="#000">
+        <tspan x="93.599" y="34.742">shouldComponentUpdate()</tspan>
+      </text>
+    </g>
+    <g transform="translate(0 235)">
+      <rect fill="#CDFFCF" width="435.906" height="61.425" rx="10"/>
+      <text font-family="HelveticaNeue-MediumItalic, Helvetica Neue" font-size="20.103" font-style="italic" font-weight="500" letter-spacing=".5" fill="#000">
+        <tspan x="110.473" y="34.742">componentWillUpdate()</tspan>
+      </text>
+    </g>
+    <g transform="translate(0 331)">
+      <rect fill="#AAE6F3" width="435.906" height="61.425" rx="10"/>
+      <text font-family="HelveticaNeue-MediumItalic, Helvetica Neue" font-size="20.103" font-style="italic" font-weight="500" letter-spacing=".5" fill="#000">
+        <tspan x="180.594" y="34.742">render(</tspan> <tspan x="251.098" y="34.742">)</tspan>
+      </text>
+    </g>
+    <g transform="translate(0 425.756)">
+      <rect fill="#CDFFCF" width="438.605" height="61.425" rx="10"/>
+      <text font-family="HelveticaNeue-MediumItalic, Helvetica Neue" font-size="20.103" font-style="italic" font-weight="500" letter-spacing=".5" fill="#000">
+        <tspan x="2.861" y="34.742">componentDidUpdate(prevProps, prevState</tspan> <tspan x="431.541" y="34.742">)</tspan>
+      </text>
+    </g>
+    <path d="M225 204.614v28.87M225 233.484l3-10.8h-6l3 10.8zM226 298.614v30.1M226 328.713l3-10.8h-6l3 10.8zM229 394.614v28.87M229 423.484l3-10.8h-6l3 10.8zM225 109.614v28.87M225 138.484l3-10.8h-6l3 10.8z" stroke="#7575E3" stroke-width="2" stroke-linecap="square"/>
+    <path fill="#EAC6C6" d="M129 0h190v27H129z"/>
+    <text font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" fill="#000">
+      <tspan x="181.49" y="21">Updating</tspan>
+    </text>
+    <path fill="#52539F" d="M463 235h414v78.356H463zM460 141h419v59H460zM458 426h455v78.356H458zM463 48h325v59H463z"/>
+    <text font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="13" font-weight="bold" fill="#FFF">
+      <tspan x="472" y="249">- Final preparation before component updates </tspan>
+    </text>
+    <text font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="13" font-weight="bold" fill="#FFF">
+      <tspan x="464" y="192">- If this returns false, the methods below it are not invoked</tspan>
+    </text>
+    <text font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="13" font-weight="bold" fill="#FFF">
+      <tspan x="462" y="461.5">- Good place to fetch data as a result of props or state changes</tspan>
+    </text>
+    <text font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="13" font-weight="bold" fill="#FFF">
+      <tspan x="462" y="480">- Previous props and state objects are passed in as parameters to </tspan> <tspan x="462" y="496">facilitate this</tspan>
+    </text>
+    <text font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="13" font-weight="bold" fill="#FFF">
+      <tspan x="464" y="158">- Returns </tspan> <tspan x="525.399" y="158" font-style="italic">true</tspan> <tspan x="550.671" y="158"> by default but can choose not to update component </tspan> <tspan x="464" y="174">for a particular state change by returning </tspan> <tspan x="721.595" y="174" font-style="italic">false</tspan>
+    </text>
+    <text font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="13" font-weight="bold" fill="#FFF">
+      <tspan x="462" y="443">- Invoked after component is rendered to the DOM</tspan>
+    </text>
+    <text font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="13" font-weight="bold" fill="#FFF">
+      <tspan x="469" y="64">- Called when props are changed</tspan>
+    </text>
+    <text font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="13" font-weight="bold" fill="#FFF">
+      <tspan x="469" y="82">- Not called with initial props, only during updates</tspan>
+    </text>
+    <text font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="13" font-weight="bold" fill="#FFF">
+      <tspan x="469" y="100">- Can use ‘</tspan> <tspan x="535.703" y="100" font-style="italic">nextProps</tspan> <tspan x="598.792" y="100">’ parameter to update state</tspan>
+    </text>
+    <text font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="13" font-weight="bold" fill="#FFF">
+      <tspan x="472" y="270.96">- this.setState can’t be called here - should be done earlier in </tspan> <tspan x="472" y="286.96">the lifecycle</tspan>
+    </text>
+    <text font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="13" font-weight="bold" fill="#FFF">
+      <tspan x="472" y="308.92">- Not invoked if shouldComponentUpdate() returns false</tspan>
+    </text>
+  </g>
 </svg>
