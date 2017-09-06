@@ -20,7 +20,7 @@ Methods prefixed with `will` are called right before something happens, and meth
 - Updating
 - Unmounting
 
----
+------
 
 ### Mounting
 
@@ -28,7 +28,15 @@ Methods prefixed with `will` are called right before something happens, and meth
 
 [CodePen](https://goo.gl/DposJo)
 
+
 ---
+
+- constructor()
+- componentWillMount()
+- render()
+- componentDidMount()
+
+------
 
 ### Updating
 
@@ -38,26 +46,18 @@ Methods prefixed with `will` are called right before something happens, and meth
 
 ---
 
+- componentWillReceiveProps()
+- shouldComponentUpdate()
+- componentWillUpdate()
+- componentDidUpdate()
+
+------
+
 ### Unmounting
 
 ![](img/unmounting.svg)
 
 [CodePen](https://goo.gl/Lu8q1V)
 
----
-
-# TODO
-
-Talk about each of these; when they are called, what you can and can't do in each, etc.
-
-- constructor()
-- componentWillMount()
-- render()
-- componentDidMount()
-
-- componentWillReceiveProps()
-- shouldComponentUpdate()
-- componentWillUpdate()
-- componentDidUpdate()
 
 - componentWillUnmount()
