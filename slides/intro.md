@@ -8,7 +8,8 @@
 
 ### What are we going to cover today?
 
-- Setting up a React project
 - Component lifecycle
-
-Each topic will be followed by a short exercise.
+- Exercise (10 minutes)
+- Setting up a basic React project
+- Setting up a React project by hand
+- Exercise (10 minutes)
