@@ -59,5 +59,6 @@ Methods prefixed with `will` are called right before something happens, and meth
 
 [CodePen](https://goo.gl/Lu8q1V)
 
+---
 
 - componentWillUnmount()
