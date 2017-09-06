@@ -62,7 +62,7 @@ yarn add webpack webpack-dev-server --dev
 
 ### Babel config
 
-Create a file called `.babelrc` in thre root of the project and pass in the presets
+Create a file called `.babelrc` in the root of the project and pass in the presets
 
 ```
 {
@@ -84,6 +84,7 @@ Add a `"scripts"` property to the `package.json` file like so
     "start-dev": "webpack-dev-server"
 }
 ```
+
 ---
 
 ### Run the project!
